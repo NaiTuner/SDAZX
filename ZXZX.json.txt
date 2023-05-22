@@ -4,24 +4,20 @@
 
 
 {
-         "name": "ชื่อเซิร์ฟ",
-         "url": "ไฟล์ovpn"
+         "name": "FREE-TH-01-DTAC",
+         "url": "https://raw.githubusercontent.com/NaiTuner/SDAZX/main/TH-DTAC.ovpn"
       }
 ,
 {
-         "name": "ชื่อเซิร์ฟ",
-         "url": "ไฟล์ovpn"
-      }
-,
-{
-         "name": "ชื่อเซิร์ฟ",
-         "url": "ไฟล์ovpn"
+         "name": "FREE-TH-01-TRUE",
+         "url": "https://raw.githubusercontent.com/NaiTuner/SDAZX/main/TH-TRUE.ovpn"
       }
 
 
    ],
 "message":"
-*อะไรก็ได้ตามใจ
+Tuner VPN
+
 
 \n\nUpdate:1",
 "title":"New Update File" ,
