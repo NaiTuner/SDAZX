@@ -1,0 +1,30 @@
+{
+   "files": [    
+
+
+
+{
+         "name": "Dtac-VIP01",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/d1.ovpn"
+      }
+,
+{
+         "name": "Dtac-VIP02",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/d2.ovpn"
+      }
+,
+{
+         "name": "Dtac-VIP03",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/d3.ovpn"
+      }
+
+
+
+   ],
+"message":"
+
+
+\n\nเวอร์ชั่นไฟล์:1",
+"title":"New Update File" ,
+   "version":1
+}
