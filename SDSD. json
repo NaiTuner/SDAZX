@@ -19,6 +19,11 @@
       }
 ,
 {
+         "name": "TEST-NaiTuner-TH-01-TRUE",
+         "url": "https://raw.githubusercontent.com/NaiTuner/SDAZX/main/NaiTuner-TRUE.ovpn"
+      }
+,
+{
          "name": "VIP-NaiTuner-TH-01-TRUE",
          "url": "https://raw.githubusercontent.com/NaiTuner/SDAZX/main/OPENLAND-TRUE.ovpn"
       }
@@ -36,7 +41,7 @@ TUNER VPN
 ✅️ไม่มีเก็บเงินย้อนหลัง
 
 
-\n\nเวอร์ชั่นไฟล์:1",
+\n\nเวอร์ชั่นไฟล์:2",
 "title":"New Update File" ,
-   "version":1
+   "version":2
 }
