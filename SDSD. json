@@ -25,7 +25,7 @@
 ,
 {
          "name": "FREE-NaiTuner-TH-02-TRUE",
-         "url": "https://raw.githubusercontent.com/NaiTuner/SDAZX/main/NaiTuner-OK-TRUE.ovpn"
+         "url": "https://raw.githubusercontent.com/NaiTuner/SDAZX/main/NaiTuner-Free-TRUE.ovpn"
       }
 ,
 {
@@ -48,5 +48,5 @@ TUNER VPN
 
 \n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "version":7
+   "version":8
 }
