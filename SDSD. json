@@ -29,8 +29,8 @@
       }
 ,
 {
-         "name": "VIP-NaiTuner-TH-01-TRUE",
-         "url": "https://raw.githubusercontent.com/NaiTuner/SDAZX/main/OPENLAND-TRUE.ovpn"
+         "name": "VIP-VTEC-TH-01-TRUE",
+         "url": "https://github.com/NaiTuner/SDAZX/blob/main/VTEC-OK-TRUE.ovpn"
       }
 
    ],
@@ -48,5 +48,5 @@ TUNER VPN
 
 \n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "version":9
+   "version":1
 }
